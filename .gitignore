@@ -3,36 +3,36 @@
 
 # sbt
 # (may want to keep parts of 'project')
-bin/
-project/
-target/
-build/
+# bin/
+# project/
+# target/
+# build/
 
 # eclipse
-build
-.classpath
-.project
-.settings
-.worksheet
+# build
+# .classpath
+# .project
+# .settings
+# .worksheet
 
 # intellij idea
-*.log
-*.iml
-*.ipr
-*.iws
-.idea
+# *.log
+# *.iml
+# *.ipr
+# *.iws
+# .idea
 
 # mac
-.DS_Store
+# .DS_Store
 
 # other?
-.history
-.scala_dependencies
-.cache
-.cache-main
+# .history
+# .scala_dependencies
+# .cache
+# .cache-main
 
 #general
-*.class
-*.csv
+# *.class
+# *.csv
 
-*.txt
+# *.txt
